@@ -5,7 +5,7 @@
 ### ✨&nbsp; About Me
 
 I am a Ph.D. candidate at the School of Information Science and Engineering, Hunan University in China.
-I have participated in many mathematical modeling competitions, and have practical experience in machine learning algorithms such as neural network, genetic algorithm, SVM, and NLP.
+I have participated in many mathematical modeling competitions, and have practical experience in machine learning algorithms such as Neural network, Transform, Genetic algorithm, Particle swarm optimization and Text Summarization.
 I am currently engaged in a project on predicting precipitation.
 
 #### My Opensource Story
