@@ -11,7 +11,7 @@ I am currently engaged in a project on predicting precipitation.
 #### My Opensource Story
 All of my projects are released as open-source on GitHub.
 #### Awards and Achievements
-- H Award in the 2020 American Collegiate Mathematical Contest in Modeling (MCM)
+- Honorable Mention in the 2020 American Collegiate Mathematical Contest in Modeling (MCM)
 - The third prize of the 9th APMCM Asia-Pacific University Students Mathematical Contest in Modeling in 2019
 - The second prize of the 12th Central China College Students Mathematical Contest in Modeling in 2019
 - Bronze Award of Hubei Province in the 6th China International "Internet Plus" College Student Innovation and Entrepreneurship Competition 2020
